@@ -192,6 +192,10 @@ button.xp-back-button {
   font-weight: 300;
   font-size: 16px; }
 
+#aboutContent {
+  max-width: 700px;
+  margin: auto; }
+
 #treehouseLink, #gastronomyLink {
   color: #cacaca;
   font-style: italic;
@@ -220,6 +224,9 @@ button.xp-back-button {
   background: #cacaca; }
 
 .list-inline-item {
+  text-decoration: none; }
+
+#footer a {
   text-decoration: none; }
 
 /*!
