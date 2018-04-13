@@ -155,7 +155,7 @@ button.xp-back-button {
   border-top: .5px solid white; }
 
 #madero a {
-  margin: 109px 10px; }
+  margin: 83px 0px; }
 
 #anselmo .card-body {
   border-top: .5px solid white; }
@@ -204,9 +204,15 @@ button.xp-back-button {
     color: #fff;
     text-decoration: wavy; }
 
+#aboutContent {
+  background: #cacaca;
+  color: #400400;
+  padding: 30px;
+  border: 3px solid #400400;
+  outline: .5px solid white; }
+
 #cvLink {
   color: #cacaca;
-  font-style: italic;
   text-decoration: underline; }
   #cvLink:hover {
     color: #fff; }
